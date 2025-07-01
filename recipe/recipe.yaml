@@ -1,5 +1,5 @@
 context:
-  version: "3.1.4"
+  version: "4.0.0"
 
 package:
   name: inject-markdown
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://registry.npmjs.org/inject-markdown/-/inject-markdown-${{ version }}.tgz
-  sha256: 4f6656523da87e63401e98734f0a21cec4b05ff8167dcd06bed0592e1e2641bc
+  sha256: 1cafd6883c83131331f29d8b45385b5b82b84017102837bf9f719c901733d3b3
 
 build:
   number: 0
